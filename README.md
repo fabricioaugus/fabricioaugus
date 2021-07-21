@@ -63,6 +63,6 @@
 
 <br/>
 
-<a src="https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/dynamic-realtime/rajput2107.md"> template link</a>
+<code><a src="https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/dynamic-realtime/rajput2107.md"> template link</a></code>
 
-<a src="https://github.com/rajput2107">template creator</a>
+<code><a src="https://github.com/rajput2107">template creator</a></code>

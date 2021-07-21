@@ -17,7 +17,7 @@
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 
-* **Database **
+* **Database**
 
   <code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></a></code>
 
@@ -29,8 +29,8 @@
 - **Data Science**
 - **AI**
 - **Machine Learning**
-- **Power Bi **
-- <br/>
+- **Power Bi**
+  <br/>
   <br/>
 
 

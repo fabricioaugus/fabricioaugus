@@ -1,5 +1,5 @@
 ## Hello world !!! 
-<img src="https://giphy.com/embed/NVBR6cLvUjV9C" width="480" height="480" frameBorder="0" class="giphy-embed">
+<img src="https://giphy.com/embed/NVBR6cLvUjV9C" width="50" height="50">
 <br>
 <em>I am a 4th Year undergraduate student from <a href="https://www.muz.ifsuldeminas.edu.br/"><b>IFSULDEMINAS - Campus Muzambinho</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
